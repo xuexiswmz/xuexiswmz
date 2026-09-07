@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title description">
+  <title id="title">Blue profile footer</title>
+  <desc id="description">Blue gradient waves closing the profile README</desc>
+
+  <defs>
+    <linearGradient id="footer-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bfdbfe" />
+      <stop offset="0.5" stop-color="#93c5fd" />
+      <stop offset="1" stop-color="#7dd3fc" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="130" fill="#ffffff" />
+  <path d="M0 54 C190 6 358 88 570 44 C782 0 970 84 1200 30 L1200 130 L0 130 Z" fill="#dbeafe" opacity="0.82" />
+  <path d="M0 76 C216 30 392 116 610 66 C828 16 1018 96 1200 54 L1200 130 L0 130 Z" fill="#bfdbfe" opacity="0.78" />
+  <path d="M0 94 C210 52 404 126 620 88 C836 50 1016 116 1200 78 L1200 130 L0 130 Z" fill="url(#footer-gradient)" />
+</svg>
